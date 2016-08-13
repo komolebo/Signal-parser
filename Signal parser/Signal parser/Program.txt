@@ -1,0 +1,6 @@
+PROCEDURE Proc1(myvar1, myvar2: COMPLEX);
+VAR myvar3, myvar4, myvar5: BLOCKFLOAT;
+	myvar6: INTEGER;
+	myvar7: BLOCKFLOATE
+BEGIN
+END;
